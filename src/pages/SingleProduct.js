@@ -11,7 +11,7 @@ function SingleProduct() {
     class="snipcart-add-item"
     data-item-id="silver-stacking-ring"
     data-item-price="19.99"
-    data-item-url="https://gracious-sinoussi-df53b2.netlify.app/"
+    data-item-url="https://gracious-sinoussi-df53b2.netlify.app/SingleProduct"
     data-item-name="Silver Stacking Ring"
     data-item-image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuaymWmmi-MUaYh89ZoboTsK1Gcu51QJ5OfA&usqp=CAU"
   >
