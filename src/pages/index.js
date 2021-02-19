@@ -11,7 +11,7 @@ export default function Home() {
     class="snipcart-add-item"
     data-item-id="silver-stacking-ring"
     data-item-price="19.99"
-    data-item-url="/"
+    data-item-url="https://loving-bell-edc7b6.netlify.app/"
     data-item-name="Silver Stacking Ring"
     data-item-image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuaymWmmi-MUaYh89ZoboTsK1Gcu51QJ5OfA&usqp=CAU"
   >
